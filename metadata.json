@@ -1,0 +1,6 @@
+{
+  "name": "World Map & User Location",
+  "description": "A template showing a world map with real-time user location tracking using Google Maps Platform.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
